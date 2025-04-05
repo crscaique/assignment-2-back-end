@@ -14,3 +14,6 @@ python -m venv .venv
 
 # 3. Install dependencies from requirements.txt
 python -m pip install -r requirements.txt
+
+# 4. Run the app
+python .\manage.py runserver
